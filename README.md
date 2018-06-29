@@ -1,5 +1,7 @@
 # Test
 Este é um repositório test!
 
-Nomes:
+Nomes: 
+- Pedro
 - Waira
+
