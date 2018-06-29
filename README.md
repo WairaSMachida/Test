@@ -5,6 +5,6 @@ md = markdown
 arquivo de texto
 
 Nomes: 
-- Pedro
+- Pedro Correia
 - Waira
 - André
