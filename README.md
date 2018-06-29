@@ -7,4 +7,4 @@ arquivo de texto
 Nomes: 
 - Pedro
 - Waira
-- André
+- André Coutinho
