@@ -5,6 +5,6 @@ md = markdown
 arquivo de texto
 
 Nomes: 
-- Pedro
-- Waira Saravia Machida
+- Pedro Correia
+- Waira Machida
 - André
