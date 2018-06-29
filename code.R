@@ -12,3 +12,4 @@ matr2 <- rbind(var1,var2)
 
 var3 <- var1 + var2 #soma
 cat <- "gatinho"
+cat2 <- c(var1, var2)
