@@ -6,5 +6,5 @@ arquivo de texto
 
 Nomes: 
 - Pedro Correia
-- Waira
+- Waira Machida
 - André Coutinho
