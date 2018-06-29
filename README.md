@@ -6,5 +6,5 @@ arquivo de texto
 
 Nomes: 
 - Pedro
-- Waira
+- Waira Saravia Machida
 - André
